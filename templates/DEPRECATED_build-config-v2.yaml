@@ -1,0 +1,16 @@
+---
+version: 2
+context: prod
+repositories:
+  - name: demo-app-1
+    owner: demo-org
+    run: true
+    branch: main
+  - name: demo-app-2
+    owner: demo-org
+    run: true
+    branch: main
+  - name: demo-app-3
+    owner: demo-org
+    run: true
+    branch: main
